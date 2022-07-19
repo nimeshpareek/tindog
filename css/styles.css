@@ -1,0 +1,117 @@
+#title{
+    background-color: #f93552;
+    color: aliceblue;
+}
+
+/* .row{
+    padding: 3% 15%;
+} */
+.container-fluid1{
+    padding: 3% 15%;
+}
+h1.hah1{
+    font-size: 4.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a.navbar-brand{
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-bottom: 4.5rem;
+}
+.nav-item{
+    padding: 0px 18px;
+}
+
+a.nav-link{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.6rem;
+}
+.download_button{
+    margin: 5% 3% 5% 0%;    
+}
+.title-image{
+    width: 55%;
+    transform: rotate(5deg)
+}
+.tick{
+    height: 38%;
+}
+#features{
+    padding-left:15%;
+    padding-top: 7%;
+    padding-right: 15%;
+    padding-bottom: 7%  ;
+}
+.feature-box{
+    text-align: center;
+    font-family: monospace;
+   
+}
+.fa{
+    height: 100px ;
+
+}
+.icon{
+    color: #f93552;
+}
+.icon:hover{
+    color: aqua;
+}
+#testimonials{
+    margin-bottom: 20%;
+    text-align: center;
+    background-color: #ff4e68;
+    color: #fffefe;
+}
+h2{
+    color: #fffefe;
+    font-family: cursive;
+}
+img.testimonials-image{
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px;
+    text-align: center;
+    
+    /* height: 100px;
+    width: 100px; */
+}
+#press{
+    background-color: #ff4e68;
+    font-family: cursive;
+    margin-bottom: 50px;
+    border-bottom-width: 50px;
+    padding-bottom: 63px;
+    /* text-align: center; */
+    
+}
+.press-loop{
+    width: 20%;
+    margin: auto;
+}
+.carousel-item{
+    height: 500px;
+    padding: 7% 15%;
+    
+    /* background-color: blue; */
+}
+/* .c1{
+    background-color: aqua;
+}
+.c2{
+    background-color: blue;
+}
+.c3{
+    background-color: bisque;
+} */
+/* img.testimonials-image-lady{
+    border-radius: 100%;
+    width: 20%;
+    margin-top: 20px;
+    
+    height: 100px;
+    width: 100px;
+} */
