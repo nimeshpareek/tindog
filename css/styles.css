@@ -98,20 +98,20 @@ img.testimonials-image{
     
     /* background-color: blue; */
 }
-/* .c1{
-    background-color: aqua;
+#pricing{
+    padding: 1px 100px 100px 100px;
+    text-align: center;
 }
-.c2{
-    background-color: blue;
+.pricing-column{
+    padding-bottom: 3% 2%;
 }
-.c3{
-    background-color: bisque;
-} */
-/* img.testimonials-image-lady{
-    border-radius: 100%;
-    width: 20%;
-    margin-top: 20px;
+.name {
+    padding-bottom: 5%;
     
-    height: 100px;
-    width: 100px;
-} */
+}
+.price-box {
+    color: #ff4e68;
+}
+.card.card-footer {
+    text-align: center;
+}
